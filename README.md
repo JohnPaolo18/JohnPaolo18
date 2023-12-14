@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JohnPaolo18
 - 👀 I’m interested in learning mobile development and develop my apps in the future and game development
 - 🌱 I’m currently learning software development
-- 💞️ I’m looking to collaborate on different projects to boraden my skills and experience in coding..
+- 💞️ I’m looking to collaborate on different projects to broaden my skills and experience in coding..
 - 📫 Im a total beginner but you can reach me @ Paolokahlil@gmail.com
 
 <!---
